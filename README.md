@@ -1,2 +1,2 @@
 # battleship
-The game of battleship simply implemented in python. First, we choose if is going to be a singleplayer game or with 2 players. Then we place are ships in the arena and continue be firing missiles one each time to the oppenents ships. The winner is the first player who has destroyed the others ships first.
+The game of battleship simply implemented in python. First, we choose if is going to be a singleplayer game or with 2 players. Then we place our ships in the arena and continue be firing missiles one each time to the oppenents ships. The winner is the first player who has destroyed the others ships first.
